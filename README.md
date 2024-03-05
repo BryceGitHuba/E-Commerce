@@ -3,6 +3,10 @@ E-Commerce Backend Application
 This repository contains the backend code for an e-commerce application built using Node.js, Express.js, and Sequelize ORM. The application provides API endpoints to manage products, categories, and tags, allowing users to perform CRUD operations (Create, Read, Update, Delete) on these entities.
 ![Uploading image.png…]()
 
+
+video
+[Untitled_ Mar 4 2024 11_15 PM.webm](https://github.com/BryceGitHuba/E-Commerce/assets/149907275/35a6d261-0906-48c8-9f50-a22ea341f9e5)
+
 Features
 Create, Read, Update, and Delete products
 Create, Read, Update, and Delete categories
